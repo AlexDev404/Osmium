@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.52951520
+MinimumVisualStudioVersion = 10.0.29520.1
+Project("{F03K-40U-K1D-L5F40-LL034-Y04TH04GTH}") = "Osmium", "Osmium\Osmium.vcxproj", "{F03K-40U-K1D-L5F40-LL034-Y04TH04GTH}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release [Prod]|x64 = Release [Prod]|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F03K-40U-K1D-L5F40-LL034-Y04TH04GTH}.Debug|x64.ActiveCfg = Debug|x64
+		{F03K-40U-K1D-L5F40-LL034-Y04TH04GTH}.Debug|x64.Build.0 = Debug|x64
+		{F03K-40U-K1D-L5F40-LL034-Y04TH04GTH}.Release [Prod]|x64.ActiveCfg = Release [Prod]|x64
+		{F03K-40U-K1D-L5F40-LL034-Y04TH04GTH}.Release [Prod]|x64.Build.0 = Release [Prod]|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = TRUE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F03K-40U-K1D-L5F40-LL034-Y04TH04GTH}
+	EndGlobalSection
+EndGlobal
